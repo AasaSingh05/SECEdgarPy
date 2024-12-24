@@ -1,6 +1,5 @@
 #importing the necessary libraries
 from requests import get
-import pandas as pd
 from SECedgarpyExceptions import ErrorFoundWhileGETRequest
 
 #defining the global Variables to be used
